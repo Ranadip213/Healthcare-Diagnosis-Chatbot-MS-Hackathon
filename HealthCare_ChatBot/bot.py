@@ -1,7 +1,7 @@
 import pickle as pk
 import numpy as np
 import spacy
-import torch
+import torch # type: ignore
 import random
 from sklearn.tree import _tree
 import Searching_des as des
